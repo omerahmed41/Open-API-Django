@@ -15,3 +15,7 @@ A Swager open API for djangorestframework to auto document your APIs
   
 ### To stop:
   make stop
+
+### to test the APIs see: 
+#### http://127.0.0.1:8000/redoc/
+#### http://127.0.0.1:8000/swagger/
