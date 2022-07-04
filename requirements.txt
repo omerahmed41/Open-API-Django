@@ -3,3 +3,4 @@ psycopg2-binary==2.9.3
 Pillow>==9.2.0
 redis==3.5.3
 celery[sqs]==5.1.2
+djangorestframework==3.13.1
