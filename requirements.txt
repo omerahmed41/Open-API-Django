@@ -1,5 +1,5 @@
 Django>=3.0,<4.0
-psycopg2>=2.8
-Pillow>= 9.2.0
+psycopg2-binary==2.9.3
+Pillow>==9.2.0
 redis==3.5.3
 celery[sqs]==5.1.2
