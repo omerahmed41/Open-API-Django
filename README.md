@@ -1,7 +1,7 @@
-# microservice-django
+# Swager open API-django
 A micro service blueprint built with python Django
 
-using docker and having djangorestframework, celery, and redis installed ready.
+A Swager open API for djangorestframework to auto document your APIs
 
 For first build:
    make setup
